@@ -2,7 +2,7 @@
 
 - 🌱 Studying: Data Analysis, Statistics and Pentest
 - 💬 Ask me about: Programming, Physics, Statistics and Pure Mathematics.
-- 📫 How to reach me: @po5043279@gmail.com
+- 📫 How to reach me: po5043279@gmail.com
 - ⚡ Fun fact: I am instrumentalist, anti-realist, ± fictionalist and non-physicalist.
 
 <div align="center">
