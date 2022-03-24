@@ -2,7 +2,7 @@
 
 - 🌱 Studying: Data Analysis, Statistics and Pentest
 - 💬 Ask me about: Programming, Physics, Statistics and Pure Mathematics.
-- 📫 How to reach me: po5043279@gmail.com
+- 📫 How to reach me: gmail or telegram.
 - ⚡ Fun fact: I am instrumentalist, anti-realist, ± fictionalist and non-physicalist.
 
 <div align="center">
@@ -26,7 +26,8 @@
   ##
  
 <div> 
-  <a href="https://t.me/PrismaOddity" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
+  <a href="https://t.me/PrismaOddity" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:po5043279@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/PrismaRareness/PrismaRareness/blob/output/github-contribution-grid-snake.svg)
   
