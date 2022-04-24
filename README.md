@@ -1,7 +1,8 @@
 ## Hello, my pseudonym is Prisma Rareness.
 
 - 🌱 Studying: Data Analysis, Statistics and Pentest
-- 💬 Ask me about: Programming, Physics, Statistics and Pure Mathematics.
+- 💬 Ask me about: Programming, Physics, Statistics and Pure Mathematics. 
+- 📝 Blog: [PrismaRareness](https://prismarareness.pythonanywhere.com/)
 - 📫 How to reach me: E-mail or Telegram.
 - ⚡ Fun fact: I am instrumentalist, anti-realist, ± fictionalist and non-physicalist.
 
