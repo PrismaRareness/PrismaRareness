@@ -5,17 +5,7 @@
 - 📝 Blog: [PrismaRareness](https://prismarareness.pythonanywhere.com/)
 - 📫 How to reach me: E-mail or Telegram.
 - ⚡ Fun fact: I am instrumentalist, anti-realist, ± fictionalist and non-physicalist.
-```console
-                                                           (( _______
-                                                 _______     /\O    O\
-                                                /O     /\   /  \      \
-                                               /   O  /O \ / O  \O____O\ ))
-                                            ((/_____O/    \\    /O     /
-                                              \O    O\    / \  /   O  /
-                                               \O    O\ O/   \/_____O/
-                                                \O____O\/ ))          ))
-                                              ((
-```
+
 <div align="center">
   <a href="https://github.com/PrismaRareness">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrismaRareness&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
