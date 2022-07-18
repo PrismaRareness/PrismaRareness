@@ -10,7 +10,7 @@
   <a href="https://github.com/PrismaRareness">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrismaRareness&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrismaRareness&layout=compact&langs_count=7&theme=aura"/>
-  <td valign="top"><img height="277" src="https://activity-graph.herokuapp.com/graph?username=PrismaRareness&bg_color=15141b&color=60fec9&line=312849&point=8b67db&area=true&hide_border=true"/></td>
+  <td valign="top"><img height="277em" src="https://activity-graph.herokuapp.com/graph?username=PrismaRareness&bg_color=15141b&color=60fec9&line=312849&point=8b67db&area=true&hide_border=true"/></td>
 </div>
 
   
