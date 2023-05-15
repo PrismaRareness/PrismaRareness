@@ -7,11 +7,12 @@
 - ⚡ Fun fact: I am instrumentalist, anti-realist, ± fictionalist and non-physicalist.
 ##
 <div align="center">
-  <a href="https://github.com/PrismaRareness">
-  <td valign="top"><img height="250em" src="https://activity-graph.herokuapp.com/graph?username=PrismaRareness&bg_color=15141b&color=60fec9&line=312849&point=8b67db&area=true&hide_border=true"/></td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrismaRareness&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrismaRareness&layout=compact&langs_count=7&theme=aura"/>
-</div>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrismaRareness&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img align="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prismarareness&theme=dracula&layout=compact&langs_count=8" />
+
+
 
 ##
 
